@@ -1,2 +1,2 @@
 # Telecom-ChurnStatus-Forecast
-Using Pyspark, SparkSQL and SparkML to forecast telecom churn status
+Use Pyspark and SparkSQL to do data cleaning,data process and Exploratory data analysis. Classify telecom customer churn status by using SparkML.
